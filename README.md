@@ -1,2 +1,2 @@
-# lettuce-water-on-thyme
+# Lettuce-water-on-thyme
  

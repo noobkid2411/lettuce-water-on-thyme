@@ -58,13 +58,19 @@ class App extends Component {
     return (
       <div className='app'>
         <header>
-            <div className='wrapper'>
-              <h1>Lettuce Water On Thyme</h1>
-              <img src={logo} style={{ height: 80, width: 80}}/>
+            <div className='wrapper'style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center"
+      }}  >
+              <img src={logo} style={{ height: 90, width: 80}}/>
+              <h1 >  Lettuce Water On Thyme  </h1>
+              <img src={logo} style={{ height: 90, width: 80}}/>
             </div>
         </header>
         <div className='container'>
           <section className='add-item'>
+          <h2 > Add a new plant in family!  </h2>
               <form onSubmit={this.handleSubmit} >
                 <input type="text" name="plant_name" placeholder="You got a new plant,what kind?" onChange={this.handleChange} value={this.state.plant_name} />
                 <input type="text" name="frequency" placeholder="Weekly water frequency?" onChange={this.handleChange} value={this.state.frequency}/>

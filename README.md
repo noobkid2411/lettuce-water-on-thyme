@@ -1,4 +1,4 @@
-# # Lettuce-water-on-thyme # #
+ # Lettuce-Water-On-Thyme # 
 
 # Inspiration #
 

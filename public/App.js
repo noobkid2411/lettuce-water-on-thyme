@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import firebase from './firebase1.js';
+import firebase from './firebase.js';
 console.log(logo);
 class App extends Component {
   componentDidMount() {

@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "lwot": "lettuce-water-on-thyme",
+    "default": "lettuce-water-on-thyme"
+  }
+}

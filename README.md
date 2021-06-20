@@ -9,7 +9,7 @@ Visit https://lettucewateronthyme.co/ to know more!
 ![mainscreen](https://user-images.githubusercontent.com/69161722/122653943-d166a800-d165-11eb-9728-1a1a078add40.jpg)
 
 # Inspiration #
-
+ 
 
 # What it does? #
 
@@ -27,7 +27,11 @@ Visit https://lettucewateronthyme.co/ to know more!
 
 
 # Built With #
-
+~ HTML,CSS
+~ React JS,npm,yarn
+~ Firebase real time database API
+~ Firebase hosting
+~ Godaddy domain registry
 
 
  

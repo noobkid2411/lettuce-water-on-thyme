@@ -28,9 +28,13 @@ Visit https://lettucewateronthyme.co/ to know more!
 
 # Built With #
 ~ HTML,CSS
+
 ~ React JS,npm,yarn
+
 ~ Firebase real time database API
+
 ~ Firebase hosting
+
 ~ Godaddy domain registry
 
 
